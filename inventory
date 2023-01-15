@@ -1,3 +1,5 @@
-ubuntu1
-ubuntu2
-ubuntu3
+
+ubuntu1 apache_package=apache2 php_package=libapache2-mod-php
+ubuntu2 apache_package=apache2 php_package=libapache2-mod-php
+ubuntu3 apache_package=apache2 php_package=libapache2-mod-php
+
